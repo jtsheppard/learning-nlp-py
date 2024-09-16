@@ -7,8 +7,10 @@ numpy
 nltk
 sklearn
 spacy
+gensim
 
 # Dataviz:
 matplotlib
 squarify
 seaborn
+pyldavis
